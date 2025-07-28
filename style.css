@@ -2,3 +2,16 @@ body{
     background: black;
     color: purple;
 }
+header {
+    border-bottom:solid 2px rgb(112, 5, 5);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(4, 4, 90);
+}
+section {
+    backgroud: rgb(161, 161, 10);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
